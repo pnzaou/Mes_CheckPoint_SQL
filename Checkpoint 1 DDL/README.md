@@ -1,4 +1,4 @@
-# Cheickpoint
+# Cheickpoint DDL
 
 Dans ce point de contrôle, nous avons le modèle relationnel suivant :
 
